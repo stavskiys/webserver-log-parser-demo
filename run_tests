@@ -1,0 +1,2 @@
+#!/bin/bash
+for file in $(find ./tests -name '*_test.rb'); do ruby $file; done 
