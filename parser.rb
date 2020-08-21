@@ -1,5 +1,3 @@
-require 'pry'
-
 $LOAD_PATH << Dir.pwd
 
 require 'loader'
